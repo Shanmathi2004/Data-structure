@@ -1,7 +1,9 @@
 Data-structure
+
 📚 A comprehensive collection of Data Structure study notes ( Lists, Stacks, Queues, Trees, Graphs, Seaching and Sorting techniques.)
 
 📁 Folder Breakdown
+
 🛠️ 1. Data Structure Basics
 Covers fundamental concepts required to understand core data structures.
 
